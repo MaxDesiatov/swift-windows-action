@@ -14,7 +14,6 @@ runs:
   runs-on: windows-2019
 
   steps:
-    - uses: actions/checkout@v2
     - uses: seanmiddleditch/gha-setup-vsdevenv@v3
 
     - name: Install Swift ${{ inputs.swift-version }}
