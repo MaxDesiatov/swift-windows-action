@@ -1,3 +1,5 @@
+# WARNING: this action is deprecated, please use [gha-setup-swift](https://github.com/compnerd/gha-setup-swift) instead.
+
 # swift-windows-action
 GitHub Action for building your code with Swift on Windows
 
